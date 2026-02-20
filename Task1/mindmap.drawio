@@ -558,16 +558,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NThPwAL4_hwAMNsMnuhn-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Обоснование" vertex="1">
-          <mxGeometry height="550" width="121" x="-1" y="70" as="geometry" />
+          <mxGeometry height="550" width="121" x="-2" y="70" as="geometry" />
         </mxCell>
         <mxCell id="NThPwAL4_hwAMNsMnuhn-6" parent="NThPwAL4_hwAMNsMnuhn-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Искажение данных или их потеря данных по текущей свободной недвижимости, просмотру или текущих услуг ЖКХ являются легко восстановимыми из архива и не являются критичными&amp;nbsp;" vertex="1">
-          <mxGeometry height="230" width="99" x="11" y="30" as="geometry" />
+          <mxGeometry height="210" width="99" x="11" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="NThPwAL4_hwAMNsMnuhn-7" parent="NThPwAL4_hwAMNsMnuhn-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Искажение данных из изменение или их утечка может привести к репутационным рискам или искажени контактной информации" vertex="1">
-          <mxGeometry height="150" width="99" x="11" y="270" as="geometry" />
+        <mxCell id="NThPwAL4_hwAMNsMnuhn-7" parent="NThPwAL4_hwAMNsMnuhn-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Искажение данных, изменение или их утечка может привести к репутационным рискам или компрометации информации о покупателях&amp;nbsp;" vertex="1">
+          <mxGeometry height="150" width="99" x="11" y="250" as="geometry" />
         </mxCell>
         <mxCell id="NThPwAL4_hwAMNsMnuhn-8" parent="NThPwAL4_hwAMNsMnuhn-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Любые искажения или утечка данных может привести к финансовым потерями или судебным притензиям" vertex="1">
-          <mxGeometry height="120" width="99" x="11" y="430" as="geometry" />
+          <mxGeometry height="120" width="99" x="11" y="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
